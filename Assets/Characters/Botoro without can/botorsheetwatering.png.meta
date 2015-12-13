@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 42a150a58aa9daa45829c25bb6eea5d7
+timeCreated: 1449971719
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: botorsheetwatering_0
+    21300002: botorsheetwatering_1
+    21300004: botorsheetwatering_2
+    21300006: botorsheetwatering_3
+    21300008: botorsheetwatering_4
+    21300010: botorsheetwatering_5
+    21300012: botorsheetwatering_6
+    21300014: botorsheetwatering_7
+    21300016: botorsheetwatering_8
+    21300018: botorsheetwatering_9
+    21300020: botorsheetwatering_10
+    21300022: botorsheetwatering_11
+    21300024: botorsheetwatering_12
+    21300026: botorsheetwatering_13
+    21300028: botorsheetwatering_14
+    21300030: botorsheetwatering_15
+    21300032: botorsheetwatering_16
+    21300034: botorsheetwatering_17
+    21300036: botorsheetwatering_18
+    21300038: botorsheetwatering_19
+    21300040: botorsheetwatering_20
+    21300042: botorsheetwatering_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: botorsheetwatering_0
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 216
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_1
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 216
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19.5}
+        - {x: -16, y: -12.5}
+        - {x: -12, y: -19.5}
+        - {x: 16, y: -19.5}
+        - {x: 16, y: 2.5}
+        - {x: 3, y: 19.5}
+    - name: botorsheetwatering_2
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 216
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 216
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_4
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 216
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_5
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 159
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_6
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 160
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 160
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_8
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 160
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_9
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 160
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_10
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 160
+        width: 29
+        height: 40
+      alignment: 9
+      pivot: {x: 0.529983, y: 0.49999923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_11
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 160
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_12
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 160
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 117
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_14
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 117
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_15
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 117
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_16
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 75
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4390032, y: 0.5020822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.6348877, y: 19.91671}
+        - {x: -15.365112, y: 19.91671}
+        - {x: -15.365112, y: -7.08329}
+        - {x: -14.365112, y: -13.08329}
+        - {x: -12.365112, y: -20.08329}
+        - {x: 19.634888, y: -20.08329}
+        - {x: 19.634888, y: -11.08329}
+        - {x: 10.634888, y: 11.91671}
+      - - {x: 16.634888, y: -2.08329}
+        - {x: 18.634888, y: -4.08329}
+        - {x: 19.634888, y: -4.08329}
+        - {x: 19.634888, y: 0.9167099}
+        - {x: 17.634888, y: 0.9167099}
+    - name: botorsheetwatering_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 75
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 34
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5130005, y: 0.5032501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_19
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 34
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5130005, y: 0.5032501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_20
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 34
+        width: 30
+        height: 40
+      alignment: 9
+      pivot: {x: 0.517334, y: 0.5032501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: botorsheetwatering_21
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 34
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

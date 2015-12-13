@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: f81f14cf123b1024b8bdd963e1fa3a2e
-timeCreated: 1449974523
+timeCreated: 1449975494
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -8,6 +8,7 @@ TextureImporter:
     21300002: bototoSPRITESenv_1
     21300004: bototoSPRITESenv_2
     21300006: bototoSPRITESenv_3
+    21300008: bototoSPRITESenv_4
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -84,6 +85,24 @@ TextureImporter:
     - name: bototoSPRITESenv_2
       rect:
         serializedVersion: 2
+        x: 316
+        y: 139
+        width: 122
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 131.5}
+        - {x: -61, y: 131.5}
+        - {x: -61, y: -131.5}
+        - {x: 24, y: -131.5}
+        - {x: 38, y: -65.5}
+        - {x: 61, y: 4.5}
+        - {x: 61, y: 122.5}
+    - name: bototoSPRITESenv_3
+      rect:
+        serializedVersion: 2
         x: 164
         y: 147
         width: 66
@@ -92,7 +111,7 @@ TextureImporter:
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-    - name: bototoSPRITESenv_3
+    - name: bototoSPRITESenv_4
       rect:
         serializedVersion: 2
         x: 233
